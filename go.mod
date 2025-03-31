@@ -1,9 +1,10 @@
 module terragrunt-ls
 
 go 1.23.2
+toolchain go1.24.1
 
 require (
-	github.com/gruntwork-io/terragrunt v0.76.6
+	github.com/gruntwork-io/terragrunt v0.77.1
 	github.com/hashicorp/hcl/v2 v2.23.0
 	github.com/stretchr/testify v1.10.0
 	github.com/zclconf/go-cty v1.16.2
