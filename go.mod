@@ -5,7 +5,7 @@ go 1.23.2
 require (
 	github.com/gruntwork-io/terragrunt v0.76.6
 	github.com/hashicorp/hcl/v2 v2.23.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	github.com/zclconf/go-cty v1.16.2
 	go.lsp.dev/protocol v0.12.0
 	go.lsp.dev/uri v0.3.0
